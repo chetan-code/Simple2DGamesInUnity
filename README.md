@@ -3,14 +3,14 @@ Simple 2d games in unity with C#
 
 This repo has some simple 2d games made with unity and C#.
 
-1.A simple snake game
+<b>1.A simple snake game</b>
 
 ![](Assets/Github-Images/SnakeGameImage.jpg)
 
-2.A simple bicycle controller - physics based.
+<b>2.A simple bicycle controller - physics based.</b>
 
 ![](Assets/Github-Images/BicycleGameImage.JPG)
 
-3.A simple platformer - using rigidbodies and raycasts.
+<b>3.A simple platformer - using rigidbodies and raycasts.</b>
 
 ![](Assets/Github-Images/PlatformerImage.jpg)
