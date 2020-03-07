@@ -1,5 +1,6 @@
 # Simple2DGamesInUnity
-Simple 2d games in unity with C#
+
+Simple 2d games in unity with C#.
 
 This repo has some simple 2d games made with unity and C#.
 
